@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Shhml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @shamil
+- 👀 I’m interested in Coding and Data analaysis
+- 🌱 I’m currently learning in learn logic ai-
+-    (ai,machine learning with robotics)
+- 📫 contact me with @shamilpk2006@gmail.com-
+-    or +91 7510650870
+ 
 
-<!---
-Shhml/Shhml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
